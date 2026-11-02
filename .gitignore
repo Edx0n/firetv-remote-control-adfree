@@ -1,0 +1,22 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.kotlin/
+
+# APK gerado por "gradlew dist" (publicado nas Releases do GitHub)
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Chave de assinatura: nunca versionar
+keystore.properties
+keystore/
+*.jks
+*.keystore
