@@ -54,7 +54,7 @@ técnica completa extraída do app oficial está em [docs/spec-app-oficial.md](d
 
 ## Instalar
 
-Baixe o `ControleFireTV.apk` em [Releases](https://github.com/Edx0n/firetv-remote-control-addfree/releases)
+Baixe o `ControleFireTV.apk` em [Releases](https://github.com/Edx0n/firetv-remote-control-adfree/releases)
 ou compile (abaixo).
 
 Em países onde o Android exige desenvolvedor verificado para instalar APKs de fora da Play
